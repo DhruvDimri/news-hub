@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export default function NewsItem(props) {
   return (
     <div className="card my-3" >
