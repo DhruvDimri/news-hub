@@ -57,17 +57,7 @@ export default function NavBar() {
                 Technology
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/about">
-                About
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/help">
-                Help
-                </Link>
-              </li>
-                </ul>
+              </ul>
             <form className="d-flex" role="search">
               <input
                 className="form-control me-2"
